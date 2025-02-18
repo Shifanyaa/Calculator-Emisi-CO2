@@ -1,0 +1,30 @@
+Kendaraan
+{
+    {
+    "sourceType": "vehicle",
+    "fuelType": "bensin",
+    "tripData": [
+      {
+        "vehicleType": "Truk Sedang",
+        "fuelConsumed": 0.15,
+        "distance": 200,
+        "loadWeight": 500
+      }
+    ]
+  }
+
+
+Mesin
+    {
+    "sourceType": "machine",
+    "fuelType": "batubara",
+    "tripData": [
+      {
+        "fuelConsumed": 500,
+        "machineEficiency": 85,
+        "productionCapacityLoad": 1000
+      }
+    ]
+    }
+}
+  
